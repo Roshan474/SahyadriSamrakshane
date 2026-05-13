@@ -29,7 +29,7 @@ Sahyadri Samrakshane is a Kotlin Android app for reporting ecological alerts in 
 2. Select **File > Open** and open this folder:
 
    ```text
-   C:\Users\DELL\Documents\Codex\2026-05-11\1-the-problem-statement-urban-heat
+   C:\Users\DELL\Documents\Sahyadrisamrakshane\2026-05-11\1-the-problem-statement-urban-heat
    ```
 
 3. Let Gradle sync.
