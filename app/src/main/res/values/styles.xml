@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.SahyadriSamrakshane" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/canopy</item>
+        <item name="colorPrimaryVariant">@color/canopy_dark</item>
+        <item name="colorSecondary">@color/moss</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/mist</item>
+    </style>
+</resources>

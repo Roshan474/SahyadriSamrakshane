@@ -1,0 +1,8 @@
+<resources>
+    <color name="canopy">#24533E</color>
+    <color name="canopy_dark">#10291F</color>
+    <color name="moss">#6F8F52</color>
+    <color name="earth">#795C3B</color>
+    <color name="alert_fire">#B64B2A</color>
+    <color name="mist">#F1F4EC</color>
+</resources>
