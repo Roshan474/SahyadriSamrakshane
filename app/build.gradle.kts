@@ -1,4 +1,4 @@
-import java.util.Propertiess
+import java.util.Properties
 
 plugins {
     id("com.android.application")
