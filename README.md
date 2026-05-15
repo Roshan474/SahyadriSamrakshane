@@ -181,6 +181,8 @@ The app empowers local communities and trekkers to actively participate in:
 <pre>
 SahyadriSamrakshane/
 │
+├── .kotlin/
+│
 ├── app/
 │   ├── src/main/java/com/sahyadri/samrakshane/
 │   │   ├── ui/
@@ -194,11 +196,18 @@ SahyadriSamrakshane/
 │   ├── res/
 │   └── AndroidManifest.xml
 │
+├── gradle/
+│   └── wrapper/
+│
 ├── screenshots/
-├── build.gradle
-├── settings.gradle
+│
+├── .gitignore
+├── README.md
+├── build.gradle.kts
+├── settings.gradle.kts
 ├── gradle.properties
-└── README.md
+├── gradlew
+└── gradlew.bat
 </pre>
 
 <hr>
