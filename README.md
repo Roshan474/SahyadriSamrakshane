@@ -43,7 +43,7 @@ Sahyadri Samrakshane is a Kotlin Android app for reporting ecological alerts in 
 6. Keep your Firebase Android app package as:
 
    ```text
-   com.hasiru.usiru
+   com.sahyadri.samrakshane
    ```
 
    The display name is Sahyadri Samrakshane, but the package ID is kept the same so your existing Firebase setup continues to work.
