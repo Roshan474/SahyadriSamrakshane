@@ -66,7 +66,7 @@ You do not need to create a collection manually. When the app syncs, it creates:
 ecological_alerts
 ```
 
-## Success Criteria Mapping
+## Success Crit eria Mapping
 
 - Works with low signal: every alert is saved to Room first, then WorkManager syncs later when connected.
 - GPS coordinates shown: the report screen displays latitude, longitude, and accuracy before submission.
