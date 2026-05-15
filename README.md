@@ -357,9 +357,9 @@ The app is designed to work in remote forest regions with weak network coverage.
 <h2>👨‍💻 Developed By</h2>
 
 <p>
-<b>Roshan Kundar</b><br>
+<b>Roshan S</b><br>
 Computer Science & Engineering Student<br>
-AIET, Karnataka
+Mind Matrix, Karnataka
 </p>
 
 <hr>
