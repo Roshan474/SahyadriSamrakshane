@@ -1,6 +1,6 @@
 # Sahyadri Samrakshane
 
-Sahyadri Samrakshane is a Kotlin Android app for reporting ecological alerts in the Western Ghats. It helps trekkers and local communities capture a photo, attach high-precision GPS coordinates, cache reports in low-signal areas, and sync them to Firebase for a central forest-department style dashboard.
+Sahyadri_Samrakshane is a Kotlin Android app for reporting ecological alerts in the Western Ghats. It helps trekkers and local communities capture a photo, attach high-precision GPS coordinates, cache reports in low-signal areas, and sync them to Firebase for a central forest-department style dashboard.
 
 ## Features Implemented
 
